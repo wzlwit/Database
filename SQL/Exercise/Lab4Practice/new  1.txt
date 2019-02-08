@@ -1,0 +1,6 @@
+update book set pubdate = '97-JUL-13' where b_id = 1;
+update book set pubdate = '05-JAN-06' where b_id = 2;
+update book set pubdate = '10-MAY-31' where b_id = 3;
+update book set pubdate = '11-OCT-16' where b_id = 4;
+update book set pubdate = '09-AUG-17' where b_id = 5;
+update book set pubdate = '07-SEP-24' where b_id = 6;
