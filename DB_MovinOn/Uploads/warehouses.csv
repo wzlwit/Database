@@ -1,0 +1,4 @@
+WarehouseID,address,city,state,zip,phone,climatecont,secudoor
+WA-1,1234 East Capitol St NE & First St SE,Washington,wa,20004,1234567889,0,1
+OR-1,1600 Southwest Salmon Street,Portland ,or,97205,2345678912,1,1
+WY-1,214 W.15th Street,Cheyenne,WY ,82001,3456789123,1,0
