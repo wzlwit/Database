@@ -1,12 +1,8 @@
 -- create Library database
 -- script date: february 26,2019
--- Developed by Bianyu WANG(1896181) , Hongyu ZHAO(1895825), Yangyang MA(1896156), Zhaolong Wang(1896216 ) 
-
--- in order to create a new database, switch to the master database
--- add a statement that specifies the script runs in the context of the master database
+-- Developed by Zhaolong Wang
 
 --switch to master database
-
 use master
 ;
 go --include end of batch markers(go statement)

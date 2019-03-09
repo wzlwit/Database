@@ -1,9 +1,7 @@
 -- create daily functions, using trigger, function or procedures forLibrary database
 -- script date: Mars 07,2019
--- Developed by Zhaolong Wang(1896216 ), Bianyu WANG(1896181) , Hongyu ZHAO(1895825), Yangyang MA(1896156)
+-- Developed by Zhaolong Wang
 
--- in order to create objects on Library, switch to the Library database
--- add a statement that specifies the script runs in the context of the Library database
 use Library;
 go
 

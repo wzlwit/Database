@@ -1,9 +1,6 @@
 -- create tables of Library database
 -- script date: february 26,2019
--- Developed by Bianyu WANG(1896181) , Hongyu ZHAO(1895825), Yangyang MA(1896156), Zhaolong Wang(1896216 ) 
-
--- in order to create tables, switch to the Library database
--- add a statement that specifies the script runs in the context of the Library database
+-- Developed by Zhaolong Wang
 
 
 use Library;
