@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Library">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BH213-14:BH213-14\ipd">
+          <Created>2019-02-27T10:39:11.9608298-05:00</Created>
+          <Type>SQL</Type>
+          <Server>BH213-14</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Bianyu_NorthWind</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="OWNER-PC\SQLEXPRESSZHY:BH213-14\ipd">
+          <Created>2019-03-05T13:33:21.841-05:00</Created>
+          <Type>SQL</Type>
+          <Server>OWNER-PC\SQLEXPRESSZHY</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="1_createDatabase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1_createDatabase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2_createSchema.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2_createSchema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3_createTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3_createTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4_createConstraint.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4_createConstraint.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5_insertDataIntoTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5_insertDataIntoTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6_createQueryForTask3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6_createQueryForTask3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7.CreateUserDefineProcedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7.CreateUserDefineProcedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9.dailyTask.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9.dailyTask.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

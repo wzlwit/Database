@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Zhaolong_Northwind_2019", "Zhaolong_Northwind_2019\Zhaolong_Northwind_2019.ssmssqlproj", "{42ABAC2B-4821-4353-91AF-CFE04BC5FBC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42ABAC2B-4821-4353-91AF-CFE04BC5FBC2}.Default|Default.ActiveCfg = Default
+		{C650C2FA-DA82-44C6-BB22-E0725F9B5277}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

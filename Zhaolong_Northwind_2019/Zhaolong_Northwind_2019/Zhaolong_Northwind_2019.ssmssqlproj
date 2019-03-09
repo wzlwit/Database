@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Zhaolong_Northwind_2019">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BH213-12:BH213-12\ipd">
+          <Created>2019-02-25T11:48:14.6650839-05:00</Created>
+          <Type>SQL</Type>
+          <Server>BH213-12</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="10-Manipulate Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10-Manipulate Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11-Querying Multi Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11-Querying Multi Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12-Nested Query.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12-Nested Query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13-Workin With Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13-Workin With Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14-T-SQL System Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14-T-SQL System Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-User Defined Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15-User Defined Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-T-SQL sys Procedure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16-T-SQL sys Procedure.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17-User Defined Stored Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17-User Defined Stored Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-User Defined Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18-User Defined Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1-Create Northwind Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1-Create Northwind Database.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-Create Northwind Schemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-Create Northwind Schemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3-Create User-Defined Data Types.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3-Create User-Defined Data Types.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4-Create Northwind Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4-Create Northwind Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5-Apply Data Integraty.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5-Apply Data Integraty.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6-Create Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6-Create Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7-Insert Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7-Insert Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8-Transfer Tables From One To Another.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8-Transfer Tables From One To Another.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9-Update Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9-Update Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="exercise.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BH213-12:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BH213-12</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>exercise.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

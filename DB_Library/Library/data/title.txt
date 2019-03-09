@@ -1,0 +1,50 @@
+1|Last of the Mohicans|James Fenimore Cooper|
+2|The Village Watch-Tower|Kate Douglas Wiggin|
+3|Self Help; Conduct & Perseverance|Samuel Smiles|
+4|Songs of a Savoyard|W. S. Gilbert|
+5|Fall of the House of Usher|Edgar Allen Poe|
+6|The Cook's Decameron|Mrs. W. G. Water|
+7|Poems|Wilfred Owen|
+8|The Cherry Orchard|Anton Checkov|
+9|Wayfarers|Knut Hamsun|
+10|The Night-Born|Jack London|
+11|Lemon|Motojirou|
+12|Walking|Henry David Thoreau|
+13|The Water-Babies|Charles Kingsley|
+14|Improvement of Understanding|Spinoza|
+15|The Dictionary of the Khazars|Milorad Pavic|
+16|The First Men In The Moon|H.G. Wells|
+17|Ballads of a Bohemian|Robert W. Service|
+18|War and Peace|Lev Tolstoy|
+19|The Phantom of the Opera|Gaston Leroux|
+20|The Unbearable Lightness of Being|Milan Kundera|
+21|Le Petit Prince|Antoine de Saint-Exupery|
+22|The Master and Margarita|Mikhael Bulgakov|
+23|De La Terre a La Lune|Jules Verne|
+24|Tao Teh King|Lau-Tzu|
+25|The Black Tulip|Alexandre Dumas|
+26|The Adventures of Robin Hood|Howard Pyle|
+27|Lady Susan|Jane Austen|
+28|The Voyage of the Beagle|Charles Darwin|
+29|Misalliance|George Bernard Shaw|
+30|A Tale of Two Cities|Charles Dickens|
+31|Oliver Twist|Charles Dickens|
+32|The Call of the Wild|Jack London|
+33|"The First 100,000 Prime Numbers"|Unknown|
+34|The Legend of Sleepy Hollow|"Irving, Washington"|
+35|The Return of Sherlock Holmes|Sir Arthur Conan Doyle|
+36|The Scarlet Letter|Nathaniel Hawthorne|
+37|Treasure Island|Robert Louis Stevenson|
+38|Les Miserables|Victor Marie Hugo|
+39|Moby Dick|Herman Melville|
+40|Moll Flanders|Daniel Defoe|
+41|Sense and Sensibility|Jane Austen|
+42|Vanity Fair|William Makepeace Thackeray|
+43|Emma|Jane Austen|
+44|Adventures of Huckleberry Finn|Mark Twain|
+45|Candide|Voltaire|
+46|The Complete Works of William Shakespeare|William Shakespeare|
+47|The Crossing|Winston Churchill|
+48|History of the Decline and Fall of the Roman Empire|Edward Gibbon|
+49|Julius Caesars Commentaries on the Gallic War|Julius Caesar|
+50|Frankenstein|Mary Wollstonecraft shelley|
