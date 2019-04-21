@@ -9,6 +9,7 @@
   
   create database if not exists YMFlix
   ;
+  GO
   
   /*switch to the current database -YMFlix
    SYNTAX: use database_name;
@@ -22,8 +23,11 @@
   ;
   use mydb1
   ;
+  GO
+
   create schema Sales
   ;
+  GO
   /*delete a database
   SYNTAX: drop object_type object_name
   */
