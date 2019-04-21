@@ -74,19 +74,19 @@ select @@spid as 'SP ID' --no matter @@SPID or @spid
 ;
 go
 
-/* who is the USEr */
+/* who is the USER */
 execute sp_who 52
 ;
 go
 
-/* what WQL server version you are running? Retrieve the connection, database context, and server information */
+/* what SQL server version you are running? Retrieve the connection, database context, and server information */
 
 select @@version;
 go
 
 USE Zhaolong_Northwind;
 select 
-	USEr_name() as 'USEr Name',
+	user_name() as 'user Name',
 	db_name() as 'database name',
 	@@servername as 'server name'
 ;
