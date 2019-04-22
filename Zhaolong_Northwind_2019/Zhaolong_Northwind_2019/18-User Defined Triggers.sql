@@ -129,7 +129,7 @@ go
     DISABLE | DISABLE trigger trigger_name on talbe_name.schema_name
  */
 
- disable trigger HumanResources.checkModifiedDateTr on HumanResources.Departments
+ DISABLE trigger HumanResources.checkModifiedDateTr on HumanResources.Departments
  ;
  go
  
@@ -172,7 +172,8 @@ go
      /* return the login name associated with the security indentification number(SID) */
      AuditUser sysname default suser_name(),
      AuditModifiedDate datetime default getdate()
- )
+ );
+ GO
 
 
 /* create trigger EmployeeDataTr */

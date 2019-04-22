@@ -66,7 +66,8 @@ GO
 
 /* 1) Between Sales.[Order Details] and Sales.Orders */
 ALTER TABLE Sales.[Order Details]
-    WITH NOCHECK
+    WITH NOCHECK 
+    -- ! will not check the column before adding contstraint
     add CONSTRAINT fk_OrderDetails_Orders FOREIGN KEY (OrderID)
         REFERENCES Sales.Orders (OrderID)
 ;

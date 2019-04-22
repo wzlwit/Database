@@ -19,6 +19,7 @@ SELECT ProductID, ProductName, UnitsInStock, UnitsOnOrder, Production.getInvento
 FROM Production.Products
 WHERE ProductID IN (1,3,5)
 ;
+GO
 
 
 ALTER FUNCTION Production.getInventoryStockFn (
