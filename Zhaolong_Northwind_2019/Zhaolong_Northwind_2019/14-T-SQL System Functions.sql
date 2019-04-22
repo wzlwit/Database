@@ -67,6 +67,7 @@ FROM Production.Products
 ;
 GO
 
+-- ! decode way
 SELECT productid, ProductName, UnitPrice,
     CASE unitprice
     -- when condition then expression
